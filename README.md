@@ -5,9 +5,9 @@
 **Biotech Manufacturing Professional Transitioning to Cybersecurity**  
 San José, CA | cjodizon@yahoo.com | 916-230-5540
 
-I graduated from San José State University with a **B.S. in Biochemistry** (2020). After graduation, I built 5+ years of hands-on experience in the biotech industry, specializing in GMP regulated cell & gene therapy manufacturing (aseptic processing in ISO 5/7 cleanrooms, mammalian cell culture, viral transduction, equipment operation like CliniMacs/LOVO/Sepax, data trend reporting, zero human errors, and cross-team compliance/risk work).
+I graduated from San José State University with a **B.S. in Biochemistry** (2020). After graduation, I built 5+ years of hands-on experience in the biotech industry, specializing in GMP-regulated cell & gene therapy manufacturing (aseptic processing in ISO 5/7 cleanrooms, mammalian cell culture, viral transduction, equipment operation like CliniMacs/LOVO/Sepax, data trend reporting, zero human errors, and cross-team compliance/risk work).
 
-Now, I'm excited to pivot into **cybersecurity**—leveraging my strengths in regulatory compliance (GMP/cGMP), risk/hazard mitigation (EHS walkthroughs), data monitoring & analysis (MODA/VAISALA trends), attention to detail, and process integrity. These map directly to cyber frameworks like NIST, incident prevention, log analysis, and GRC roles.
+Now, I'm excited to pivot into **cybersecurity** leveraging my strengths in regulatory compliance (GMP/cGMP), risk/hazard mitigation (EHS walkthroughs), data monitoring & analysis (MODA/VAISALA trends), attention to detail, and process integrity. These map directly to cyber frameworks like NIST, incident prevention, log analysis, and GRC roles.
 
 Currently completing the **Google Cybersecurity Professional Certificate** (Foundations in progress). Building hands-on skills in security principles, risk management, SIEM basics, incident response, and more.
 
